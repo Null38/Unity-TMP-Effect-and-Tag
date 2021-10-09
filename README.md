@@ -15,7 +15,9 @@ TextController.cs, TextController.cs가 사실상 전부입니다.
 
 ## 사용법
 글씨 색은 4개로 되어있는데 꼭지점 별로 색 변경을 위해서 입니다.
+
 타이핑 효과는 위치랑 크기, 글자색을 변경할 수 있습니다.
+
 모든 속도의 단위는 (초)입니다.
 
 ### ● TextController.cs
