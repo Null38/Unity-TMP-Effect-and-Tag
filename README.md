@@ -5,7 +5,7 @@ TextController.cs, TextController.cs가 사실상 전부입니다.
 다운로드 : <https://github.com/Null38/Unity-TMP-Effect-and-Tag/releases/tag/1>
 
 ## 태그 종류
-그냥 꺽쇠괄호를 사용하려면 "\<"를 사용해야 합니다. 안그러면 에러가 납니다.
+그냥 꺽쇠괄호를 사용하려면 "\\<"를 사용해야 합니다. 안그러면 에러가 납니다.
 * <\~> 출렁이기 </\~> 
 * <\*> 흔들기 </\*>
 * <%> 회전시키기 </%>
