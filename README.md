@@ -2,6 +2,8 @@
 2020.1.3f1 버전에서 만들었기에 이전버전에서는 안될 가능성도 존재합니다.
 TextController.cs, TextController.cs가 사실상 전부입니다.
 
+다운로드 : <https://github.com/Null38/Unity-TMP-Effect-and-Tag/releases/tag/1>
+
 ## 사용법
 글씨 색은 4개로 되어있는데 꼭지점 별로 색 변경을 위해서 입니다.
 타이핑 효과는 위치랑 크기, 글자색을 변경할 수 있습니다.
