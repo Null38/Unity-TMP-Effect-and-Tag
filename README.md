@@ -54,6 +54,4 @@ effectReaders : 글의 태그와 속도가 들어가 있습니다. 무시하셔�
 
 txMana : TextManager컴포넌트를 집어넣어야 합니다. TextManager에 들어있는 수치값을 이용하기 위하여 사용됩니다.
 
-
-
 만약 타이핑을 스킵하고 싶으시다면 코드에서 TextTyping()의 typingTextCounter값을 textInfo.characterCount의 값으로 변경하시면 됩니다.
